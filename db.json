@@ -155,6 +155,12 @@
       "password": "mazin.zougui@gmail.com",
       "role": "admin",
       "id": 2
+    },
+    {
+      "email": "mazin.zougui@ux4mation.com",
+      "password": "mazin.zougui@ux4mation.com",
+      "role": "admin",
+      "id": 3
     }
   ],
   "settings": {
